@@ -79,13 +79,4 @@ Automation Engineer at **Amdocs** with 2+ years building scalable test automatio
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvajoshibsl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1a&title_color=00d4ff&icon_color=00d4ff&text_color=94a3b8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvajoshibsl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1a&title_color=00d4ff&text_color=94a3b8" width="48%" />
-</p>
-
----
-
 <p align="center"><i>Building automation frameworks by day, full-stack apps by night.</i></p>
