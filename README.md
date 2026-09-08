@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Atharva Joshi</h1>
-<h3 align="center">Automation Engineer | AI-Assisted Testing | Framework Architect</h3>
+<h3 align="center">Automation Engineer | AI-Assisted Testing | Playwright | Python</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharva-joshi-a624641ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/atharvajoshibsl"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://portfolio-3-0-eight-kappa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:atharvajoshibsl@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -11,39 +12,53 @@
 
 ### About Me
 
-Automation Engineer at **Amdocs** with 2+ years building scalable test automation frameworks across Telecom, Insurance, and Cloud Migration projects.
+Automation Engineer at **Amdocs** with 2+ years of experience across Telecom, Insurance, and Cloud Migration projects.
 
-- Building enterprise automation with **Java, Selenium, Playwright, TestNG**
-- Designing frameworks with **ThreadLocal management, Grafana dashboards, MySQL reporting**
-- Integrating CI/CD pipelines with **Jenkins, Azure DevOps, GitHub Actions**
-- Actively leveraging **AI-assisted development** with Cursor to accelerate test automation
+- Building test automation with **Python, Playwright, PyTest, Java and Selenium**
+- Designing automation frameworks with **reusable fixtures, reporting, execution history and CI/CD**
+- Exploring **LLM-assisted test design, self-healing locator suggestions and Agentic AI testing**
+- Working with **Jenkins, Azure DevOps, GitHub, MySQL, Grafana and AWS**
+- Leveraging **Cursor AI** for AI-assisted development and automation engineering
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logoColor=white" />
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Allure-FF6C37?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor_AI-00d4ff?style=for-the-badge&logoColor=white" />
 </p>
+
+---
+
+### AI & Automation
+
+- **LLM-Assisted Test Design** — Generate test cases from feature specifications and existing test context.
+- **Coverage Analysis** — Identify acceptance criteria and potential test coverage gaps.
+- **Self-Healing Locator Suggestions** — Retrieve page context, generate replacement locator candidates and verify selectors before reporting suggestions.
+- **Agentic AI Testing** — Validate Test Case Design, Automation and Execution agent workflows.
+- **AI-Assisted Development** — Using Cursor to accelerate application and automation framework development.
 
 ---
 
@@ -52,31 +67,56 @@ Automation Engineer at **Amdocs** with 2+ years building scalable test automatio
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">Playwright Automation Framework</h3>
+      <p align="center">
+        <a href="https://github.com/atharvajoshibsl/PlaywrightAutomationFramework">
+          <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>Ongoing Python, Playwright and PyTest framework with reusable fixtures, Allure reporting, LLM-assisted test design, coverage analysis and self-healing locator suggestions.</p>
+      <p><b>Tech:</b> Python | Playwright | PyTest | Allure | LLM | AI-Assisted Testing</p>
+    </td>
+
+    <td width="50%">
+      <h3 align="center">AItomationKart</h3>
+      <p align="center">
+        <a href="https://github.com/atharvajoshibsl/AItomationKart">
+          <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://atharvajoshi.pythonanywhere.com/">
+          <img src="https://img.shields.io/badge/Live_App-00d4ff?style=for-the-badge" />
+        </a>
+      </p>
+      <p>Full-stack application built with AI-assisted development using Cursor as the application under test for the Playwright automation framework.</p>
+      <p><b>Tech:</b> Python | Full-Stack | Cursor AI | Playwright</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
       <h3 align="center">Web Automation Framework</h3>
       <p align="center">
         <a href="https://github.com/atharvajoshibsl/WebAutomationFramework_GrafanaIntegration">
           <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p>Enterprise-grade Selenium framework with Java, TestNG, Maven. Features ThreadLocal WebDriver, Retry Analyzer, MySQL persistence, Jenkins CI, and Grafana dashboards for real-time test analytics.</p>
-      <p><b>Tech:</b> Java | Selenium | TestNG | Grafana | MySQL | Jenkins</p>
+      <p>Selenium framework with Java, TestNG and Maven featuring ThreadLocal WebDriver, Retry Analyzer, MySQL persistence, Jenkins CI and Grafana dashboards for test analytics.</p>
+      <p><b>Tech:</b> Java | Selenium | TestNG | Jenkins | MySQL | Grafana</p>
     </td>
+
     <td width="50%">
-      <h3 align="center">Personal Fitness Tracker</h3>
+      <h3 align="center">PingTest</h3>
       <p align="center">
-        <a href="https://github.com/atharvajoshibsl/Fitness-Tracker">
+        <a href="https://github.com/atharvajoshibsl/PingTest">
           <img src="https://img.shields.io/badge/View_Repo-171515?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <a href="https://fitness-tracker-delta-flax.vercel.app">
-          <img src="https://img.shields.io/badge/Live_App-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
       </p>
-      <p>Full-stack fitness tracker with React, Express, Neon Postgres. Smart Insights engine, 300+ item food database, PWA installable. Built with AI-assisted development.</p>
-      <p><b>Tech:</b> React | Vite | Express | PostgreSQL | Vercel</p>
+      <p>Full-stack API testing framework with FastAPI, authentication, CRUD operations and an interactive dashboard covering 21 test cases.</p>
+      <p><b>Tech:</b> Python | FastAPI | REST APIs | Postman | API Testing</p>
     </td>
   </tr>
 </table>
 
 ---
 
-<p align="center"><i>Building automation frameworks by day, full-stack apps by night.</i></p>
+<p align="center"><i>Building intelligent automation frameworks and exploring the intersection of AI and software testing.</i></p>
